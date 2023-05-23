@@ -4,4 +4,5 @@ features:
 * INFINITE NITRO
 * FAST (10 PER MINUTE)
 * FEATURES AUTOMATIC BOOSTING!
+* (aka you can sell boosts)
 DOWNLOAD: https://t.me/leaktoolz
